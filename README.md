@@ -12,6 +12,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +35,16 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## String
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
