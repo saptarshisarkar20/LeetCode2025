@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
