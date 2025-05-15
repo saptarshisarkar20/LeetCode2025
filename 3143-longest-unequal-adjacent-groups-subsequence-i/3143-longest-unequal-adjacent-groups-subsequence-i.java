@@ -1,24 +1,33 @@
 class Solution {
     public List<String> getLongestSubsequence(String[] words, int[] groups) {
-
         List<String> ans = new ArrayList<>();
+
+        int curr = 1;
+        List<Integer> l1 = new ArrayList<>();
         for (int i = 0; i < groups.length; i++) {
-            int curr = -1;
-            List<Integer> l = new ArrayList<>();
-            for (int j = i; j < groups.length; j++) {
-                if (curr != groups[j]) {
-                    l.add(j);
-                    curr = groups[j];
-                }
+            if (curr != groups[i]) {
+                l1.add(i);
+                curr = groups[i];
             }
-            if (l.size() > ans.size()) {
-                ans = new ArrayList<>();
-                for (int it : l) {
-                    ans.add(words[it]);
-                }
+        }
 
+        curr = 0;
+        List<Integer> l2 = new ArrayList<>();
+        for (int i = 0; i < groups.length; i++) {
+            if (curr != groups[i]) {
+                l2.add(i);
+                curr = groups[i];
             }
+        }
 
+        if (l1.size() > l2.size()) {
+            for (int it : l1) {
+                ans.add(words[it]);
+            }
+        } else {
+            for (int it : l2) {
+                ans.add(words[it]);
+            }
         }
 
         return ans;
