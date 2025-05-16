@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -49,12 +50,14 @@
 ## String
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
