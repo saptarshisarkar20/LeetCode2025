@@ -7,6 +7,7 @@
 | [0045-jump-game-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -112,4 +114,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
