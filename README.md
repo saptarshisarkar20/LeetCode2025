@@ -15,6 +15,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
 ## Counting
@@ -89,6 +91,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
