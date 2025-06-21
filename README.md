@@ -23,6 +23,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -38,10 +39,12 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
@@ -67,6 +70,7 @@
 | ------- |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -93,6 +97,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
 |  |
