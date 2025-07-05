@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 ## Combinatorics
 |  |
 | ------- |
