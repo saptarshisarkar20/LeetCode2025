@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
@@ -165,5 +167,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
