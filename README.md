@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
