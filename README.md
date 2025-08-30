@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,5 +191,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
