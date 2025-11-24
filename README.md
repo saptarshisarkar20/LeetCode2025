@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -134,6 +135,7 @@
 | [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
