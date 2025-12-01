@@ -18,6 +18,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
@@ -124,6 +126,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -199,4 +202,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3748-sort-matrix-by-diagonals) |
+## Binary Search
+|  |
+| ------- |
+| [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
