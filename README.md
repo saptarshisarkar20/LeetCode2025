@@ -17,6 +17,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
