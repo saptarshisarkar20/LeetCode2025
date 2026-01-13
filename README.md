@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1580-shuffle-the-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
@@ -40,6 +41,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
@@ -56,6 +58,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
