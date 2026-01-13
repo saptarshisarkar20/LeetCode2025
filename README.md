@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1580-shuffle-the-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
