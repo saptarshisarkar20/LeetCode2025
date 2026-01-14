@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
