@@ -18,6 +18,7 @@
 | [0485-max-consecutive-ones](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -239,5 +241,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
