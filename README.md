@@ -26,6 +26,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1580-shuffle-the-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
@@ -173,6 +174,7 @@
 | [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
 ## Counting Sort
 |  |
@@ -246,4 +249,8 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
