@@ -171,6 +171,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
@@ -217,6 +218,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -254,6 +256,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
