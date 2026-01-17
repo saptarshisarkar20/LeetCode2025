@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1127-last-stone-weight](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1127-last-stone-weight) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
@@ -182,6 +183,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
