@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0636-exclusive-time-of-functions) |
@@ -183,6 +184,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
