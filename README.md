@@ -118,6 +118,7 @@
 | [0482-license-key-formatting](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0520-detect-capital) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
+| [0858-masking-personal-information](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0858-masking-personal-information) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
