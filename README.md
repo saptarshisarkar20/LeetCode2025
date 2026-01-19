@@ -115,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0520-detect-capital) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1302-delete-characters-to-make-fancy-string) |
