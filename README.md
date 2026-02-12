@@ -63,6 +63,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
+| [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
