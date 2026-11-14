@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0055-jump-game) |
@@ -43,12 +43,13 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3364-minimum-positive-sum-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0142-linked-list-cycle-ii) |
@@ -66,12 +67,12 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,8 +84,8 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -92,21 +93,21 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0189-rotate-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0795-k-th-symbol-in-grammar) |
@@ -119,8 +120,8 @@
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/saptarshisarkar20/LeetCode2025/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3830-find-closest-person](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3830-find-closest-person) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0482-license-key-formatting](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0520-detect-capital) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
@@ -137,8 +138,8 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,8 +154,8 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -169,8 +170,8 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/saptarshisarkar20/LeetCode2025/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0795-k-th-symbol-in-grammar) |
@@ -178,13 +179,13 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
@@ -197,90 +198,95 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0386-lexicographical-numbers) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0386-lexicographical-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0090-subsets-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0795-k-th-symbol-in-grammar) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0036-valid-sudoku) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1603-running-sum-of-1d-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1603-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3364-minimum-positive-sum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
