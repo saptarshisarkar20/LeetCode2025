@@ -129,6 +129,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -264,6 +265,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2195-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
