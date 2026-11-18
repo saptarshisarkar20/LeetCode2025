@@ -122,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0520-detect-capital) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
@@ -292,4 +293,16 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3364-minimum-positive-sum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
