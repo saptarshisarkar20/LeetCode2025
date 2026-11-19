@@ -37,6 +37,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saptarshisarkar20/LeetCode2025/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -78,6 +79,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2215-finding-3-digit-even-numbers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3321-type-of-triangle) |
@@ -166,6 +168,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
