@@ -127,6 +127,7 @@
 | [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0800-letter-case-permutation) |
 | [0858-masking-personal-information](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0858-masking-personal-information) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/saptarshisarkar20/LeetCode2025/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
